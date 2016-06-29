@@ -20,10 +20,11 @@
 //   rotation:360
 //   });
 
-TweenMax.from(".text",7, {y:500})
+TweenMax.from(".text",10, {x:800, delay:3})
 TweenMax.to(".logo", 7, {
   x:600,
   rotation:360,
-  scale: 0.5,
+  scale: 1.75,
   ease:Back.easeOut
 })
+// TweenMax.from(".rocket", 6, {x:600, delay:3});
