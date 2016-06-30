@@ -21,6 +21,7 @@
 //   });
 
 TweenMax.from(".text",10, {x:800, delay:3})
+// TweenMax.from("h1",10, {x:800, delay:3})
 TweenMax.to(".logo", 7, {
   x:600,
   rotation:360,
