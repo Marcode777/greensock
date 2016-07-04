@@ -3,6 +3,7 @@
   height: 300px;
   width: 300px;
   left:100px;
+  margin-top: 25px;
 }
 
 .text {
@@ -14,6 +15,7 @@
   font-weight: bold;
 }
 
-.pic {
+/*.pic {
   position: relative;
-}
+  margin-top: 20px;
+}*/
