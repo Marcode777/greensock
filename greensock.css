@@ -19,6 +19,12 @@ body {
   background-color: white;
 }
 
+.rocket {
+  position:relative;
+  height: 50px;
+  width: 50px;
+}
+
 /*.pic {
   position: relative;
   margin-top: 20px;
