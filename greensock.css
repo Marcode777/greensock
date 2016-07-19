@@ -3,16 +3,16 @@
   height: 300px;
   width: 300px;
   left:100px;
-  margin-top: 25px;
+  margin-top: 10px;
 }
 
 .text {
   position:relative;
-  left:300px;
   color: green;
   position:center;
-  font-size:25px;
+  font-size:20px;
   font-weight: bold;
+  margin-top: 100px;
 }
 
 body {
@@ -23,6 +23,13 @@ body {
   position:relative;
   height: 50px;
   width: 50px;
+  margin-top: 100px;
+}
+
+.satellite{
+  position: relative;
+  height: 150px;
+  width:150px;
 }
 
 /*.pic {
