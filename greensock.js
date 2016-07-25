@@ -23,6 +23,7 @@
 TweenMax.from(".text",10, {x:600, delay:3})
 TweenMax.from(".rocket",10, {x:800, delay:3.5})
 TweenMax.from(".satellite",10, {x:1200, rotation:360, delay:3})
+TweenMax.from(".moon",10, {x:1200, rotation:360, delay:5})
 // TweenMax.from(".pic",10, {x:900, delay:5})
 // TweenMax.from("h1",10, {x:800, delay:3})
 TweenMax.to(".logo", 7, {

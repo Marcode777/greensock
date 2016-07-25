@@ -32,6 +32,11 @@ body {
   width:150px;
 }
 
+.moon {
+  position: relative;
+  height: 150px;
+  width:150px;
+}
 /*.pic {
   position: relative;
   margin-top: 20px;
